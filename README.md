@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulbodh" alt="rahulbodh" /></a> </p>
 
-- 🔭 I’m currently working on **WeatherApp**
+- 🔭 I’m currently working on **WorkForceNext Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Jetpack Compose And PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulbodh](https://github.com/rahulbodh)
 
 - 📫 How to reach me **rahulbodh819@gmail.com**
 
-- ⚡ Fun fact **I can code while singing.**
+- ⚡ Fun fact **I am a singer.**
 
 
 
