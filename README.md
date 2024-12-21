@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **WorkForceNext Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Jetpack Compose And PHP**
+- 🌱 I’m currently learning **Jetpack Compose And Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulbodh](https://github.com/rahulbodh)
 
