@@ -1,38 +1,84 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/rahulbodh)
-<h1 align="center">Hi 👋, I'm Rahul bodh</h1>
-<h3 align="center">🚀 Crafting Mobile Magic | Android Developer  | Code, Create, Conquer 🌟</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rahulbodh.github.io)  
+<h1 align="center">Hi 👋, I'm Rahul Bodh</h1>  
+<h3 align="center">🚀 Android Developer | Kotlin Enthusiast | Code, Create, Conquer 🌟</h3>  
 
+---
 
+## 📖 About Me  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbodh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbodh" /> </p>
+I’m a passionate Android developer with a love for crafting intuitive and efficient mobile applications. With a strong foundation in **Kotlin**, **Java**, and modern **Android development** practices, I enjoy solving complex problems and delivering high-quality apps.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulbodh" alt="rahulbodh" /></a> </p>
+- 🔭 Currently working at **WorkForceNext Pvt. Ltd.**  
+- 🌱 Exploring **Jetpack Compose** and **Spring Framework**.  
+- 👨‍💻 Check out my portfolio: [rahulbodh.github.io](https://rahulbodh.github.io)  
+- ⚡ Fun fact: **I’m also a singer 🎵!**  
 
-- 🔭 I’m currently working on **WorkForceNext Pvt. Ltd.**
+---
 
-- 🌱 I’m currently learning **Jetpack Compose And Spring**
+## 🛠️ Skills and Tools  
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahulbodh](https://github.com/rahulbodh)
+### **Programming Languages**
+- **Kotlin**, **Java** 
 
-- 📫 How to reach me **rahulbodh819@gmail.com**
+### **Android Development**
+- Jetpack Libraries: Compose, Navigation, LiveData, ViewModel  
+- Room Database, Firebase  
 
-- ⚡ Fun fact **I am a singer.**
+### **Backend Development**
+- Spring Boot, REST APIs  
 
+### **Other Tools**
+- Git, Postman, MySQL  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahulbodh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulbodh" height="30" width="40" /></a>
+## 🌟 Featured Projects  
+
+### **KontactKeeper**  
+A modern, lightweight contact manager app built with **Kotlin** and **MVVM architecture**. Features include offline storage, categorization, and a sleek Material Design UI.  
+**GitHub**: [KontactKeeper Repository](https://github.com/rahulbodh/kontactkeeper)  
+
+### **Workforce Management System**  
+A productivity app to track employee schedules and manage workforces effectively using **Room Database** and **Firebase**.  
+
+### **MusicPlayerX**  
+A dynamic music player app with a beautiful UI and playlist management capabilities.  
+
+For more, visit my GitHub: [rahulbodh.github.io/projects](https://github.com/rahulbodh)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulbodh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbodh&theme=radical" alt="GitHub Streak" width="48%" />  
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulbodh&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulbodh&show_icons=true&locale=en&layout=compact" alt="rahulbodh" /></p>
+## 🌐 Connect with Me  
 
+<p align="center">  
+  <a href="https://linkedin.com/in/rahulbodh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rahulbodh819@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/rahulbodh">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>  
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulbodh&show_icons=true&locale=en" alt="rahulbodh" /></p>  
+## 🎨 Fun Extras  
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbodh&" alt="rahulbodh" /></p> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%237E3ACE&size=22&center=true&vCenter=true&lines=Android+Developer;Kotlin+Enthusiast;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
+</p>
