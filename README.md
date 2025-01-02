@@ -38,12 +38,6 @@ I’m a passionate Android developer with a love for crafting intuitive and effi
 A modern, lightweight contact manager app built with **Kotlin** and **MVVM architecture**. Features include offline storage, categorization, and a sleek Material Design UI.  
 **GitHub**: [KontactKeeper Repository](https://github.com/rahulbodh/kontactkeeper)  
 
-### **Workforce Management System**  
-A productivity app to track employee schedules and manage workforces effectively using **Room Database** and **Firebase**.  
-
-### **MusicPlayerX**  
-A dynamic music player app with a beautiful UI and playlist management capabilities.  
-
 For more, visit my GitHub: [rahulbodh.github.io/projects](https://github.com/rahulbodh)  
 
 ---
