@@ -19,13 +19,13 @@ I’m a passionate Android developer with a love for crafting intuitive and effi
 
 ### **Languages & Frameworks**
 - **Kotlin**, **Java**
-- **Jetpack Compose**, **Android Jetpack**, **XML**
+- **Jetpack Compose**, **XML**
 
 ### **Databases**
 - **Room**, **SQLite**, **Firebase Firestore**
 
 ### **Networking & Real-time Communication**
-- **Retrofit**, **OkHttp**, **Volley**
+- **Retrofit**, **OkHttp**
 - **Socket.IO**, **WebSockets**
 
 ### **Location & Hardware Access**
