@@ -17,20 +17,29 @@ I’m a passionate Android developer with a love for crafting intuitive and effi
 
 ## 🛠️ Skills and Tools  
 
-### **Programming Languages**
-- **Kotlin**, **Java** 
+### **Languages & Frameworks**
+- **Kotlin**, **Java**
+- **Jetpack Compose**, **Android Jetpack**, **XML**
 
-### **Android Development**
-- Jetpack Libraries: Compose, Navigation, LiveData, ViewModel  
-- Room Database, Firebase  
+### **Databases**
+- **Room**, **SQLite**, **Firebase Firestore**
 
-### **Backend Development**
-- Spring Boot, REST APIs  
+### **Networking & Real-time Communication**
+- **Retrofit**, **OkHttp**, **Volley**
+- **Socket.IO**, **WebSockets**
 
-### **Other Tools**
-- Git, Postman, MySQL  
+### **Location & Hardware Access**
+- **FusedLocationProviderClient**, **USB Host API**, **Google Maps**
+
+### **Tools**
+- **Android Studio**, **Git**, **GitHub**, **Postman**
+
+### **Integrations**
+- **Firebase** (Auth, Firestore, FCM)  
+- **Payment Gateways**, **Google ML Kit**
 
 ---
+
 
 ## 🌟 Featured Projects  
 
