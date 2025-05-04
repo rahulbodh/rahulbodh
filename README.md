@@ -8,7 +8,7 @@
 
 I’m a passionate Android developer with a love for crafting intuitive and efficient mobile applications. With a strong foundation in **Kotlin**, **Java**, and modern **Android development** practices, I enjoy solving complex problems and delivering high-quality apps.  
 
-- 🔭 Currently working at **WorkForceNext Pvt. Ltd.**  
+- 🔭 Currently I am **open to work**. 
 - 🌱 Exploring **Jetpack Compose** and **Spring Framework**.  
 - 👨‍💻 Check out my portfolio: [rahulbodh.github.io](https://rahulbodh.github.io)  
 - ⚡ Fun fact: **I’m also a singer 🎵!**  
