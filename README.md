@@ -27,6 +27,7 @@ I’m a passionate Android developer with a love for crafting intuitive and effi
 ### **Networking & Real-time Communication**
 - **Retrofit**, **OkHttp**
 - **Socket.IO**, **WebSockets**
+- **LiveKit**
 
 ### **Location & Hardware Access**
 - **FusedLocationProviderClient**, **USB Host API**, **Google Maps**
