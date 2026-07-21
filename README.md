@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rahulbodh.github.io)
 
 <h1 align="center">Hi 👋, I'm Rahul Bodh</h1>
-<h3 align="center">🚀 Android Developer | Kotlin · Jetpack Compose · LiveKit · Real-Time Apps</h3>
+<h3 align="center">🚀 Software Engineer Android | Kotlin · Jetpack Compose · LiveKit · Real-Time Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%231a5276&size=22&center=true&vCenter=true&lines=Android+Developer;Real-Time+Communication+Apps;LiveKit+%7C+WebRTC+%7C+Socket.IO;1.5L%2B+MAU+in+Production;Kotlin+%7C+Jetpack+Compose+%7C+Flutter" alt="Typing SVG" />
@@ -11,9 +11,9 @@
 
 ## 📖 About Me
 
-I'm an Android Developer with **2+ years of production experience** building apps that real users rely on daily. I specialize in **real-time communication** (audio/video calling, live-streaming) and have end-to-end ownership of apps serving **1.5L+ monthly active users** with **98% crash-free users** and **99% crash-free sessions**.
+I'm an Software Engineer Android with **2+ years of production experience** building apps that real users rely on daily. I specialize in **real-time communication** (audio/video calling, live-streaming) and have end-to-end ownership of apps serving **1.5L+ monthly active users** with **98% crash-free users** and **99% crash-free sessions**.
 
-- 💼 Currently working at **Elysion Softwares Pvt. Ltd.** — building Baatein (P2P calling & chat) and Sobhagya (astrology live-streaming platform)
+- 💼 Currently working at **Q3 Technologies** — building Gamesa nd Messaging App (watch/wearOs)
 - 🔭 Focused on **real-time communication**, **performance optimization**, and **production-grade Android**
 - 🛠️ Deep experience with **LiveKit**, **WebRTC**, **Socket.IO**, **FCM**, and **Firebase Crashlytics**
 - 📱 Also building in **Flutter** with **Shorebird** code-push
