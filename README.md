@@ -13,7 +13,7 @@
 
 I'm an Software Engineer Android with **2+ years of production experience** building apps that real users rely on daily. I specialize in **real-time communication** (audio/video calling, live-streaming) and have end-to-end ownership of apps serving **1.5L+ monthly active users** with **98% crash-free users** and **99% crash-free sessions**.
 
-- 💼 Currently working at **Q3 Technologies** — building Gamesa nd Messaging App (watch/wearOs)
+- 💼 Currently working at **Q3 Technologies** — building Games nd Messaging App (watch/wearOs)
 - 🔭 Focused on **real-time communication**, **performance optimization**, and **production-grade Android**
 - 🛠️ Deep experience with **LiveKit**, **WebRTC**, **Socket.IO**, **FCM**, and **Firebase Crashlytics**
 - 📱 Also building in **Flutter** with **Shorebird** code-push
